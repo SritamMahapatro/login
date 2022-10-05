@@ -19,7 +19,7 @@
          .button
          {
              background-color: blue;
-             border-radius: 4px;
+             border-radius: 6px;
              color: azure;
              font:bold ;
              padding: auto;
